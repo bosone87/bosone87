@@ -10,14 +10,6 @@
 
 ---
 
-### :man_technologist: Обо мне :
-Я начинающий DeOps-инженер <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNtZDd4eXEzMWx0dWs4Y29tbjN2YWcxNmJ3Yzl0b3psbWY5cjc4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.webp" width="30">.
-- ✈️ По образованию и по призванию я системный инженер, на данный момент, в медицинской отрасли.  
-
-- 👨‍🎓 А в качесте хобби, осваиваю разные языки программирования и практики DevOps.
-
----
-
 ### :hammer_and_wrench: Мои навыки :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode"     width="40" height="40"/>&nbsp;
